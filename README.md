@@ -1,4 +1,4 @@
 # Maddy-coding
-this is my first github,goin' crazy now
+this is my first github
 Author-Madhav Dhiman
 
